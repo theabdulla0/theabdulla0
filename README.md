@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abdulla</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
+<h3 align="center">🚀 Turning Ideas into Interactive Web Experiences 🌍</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=theabdulla0&label=Profile%20views&color=blueviolet&style=flat-square" alt="theabdulla0" />
   <a href="https://linkedin.com/in/theabdulla"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
 </p>
+
+---
+
+### 👨‍🎨 About Me at a Glance
+
+- 🧑‍💻 **Developer**: Exploring frontend & fullstack with **React, Next.js, TailwindCSS, Node.js**.  
+- 🎯 **Goal**: Build **scalable** and **intuitive** user experiences.  
+- 🌱 **Learning**: System Design & Advanced TypeScript.  
+- 🤝 **Collaboration**: Excited to contribute to **open-source** projects & full-stack collaborations.  
+- 🎧 **Beyond Code**: Coffee ☕ + Lo‑Fi beats 🎶 = creative vibes.  
 
 ---
 
@@ -17,7 +27,7 @@
 
 ### 👯 Looking to Collaborate On
 - **Full Stack Projects** (MERN/Next.js)  
-- Exciting **open source work**  
+- Exciting **Open Source Work**  
 
 ### 👨‍💻 All My Projects
 - Will soon be showcased at 👉 [My Portfolio Website](#)  
@@ -71,7 +81,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theabdulla0&theme=radical" />
 </p>
 
-<!-- 🔥 Replaced langs chart with manual tech stack -->
+<!-- 🚀 No auto "Top Languages" chart, only badges below -->
+
 <h3 align="center">🚀 My Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -82,11 +93,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabdulla0&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
