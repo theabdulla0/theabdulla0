@@ -8,16 +8,18 @@
 
 ---
 
+### 🔭 Currently Working On
+- My Portfolio (Next.js + TailwindCSS)
+
 ### 🌱 Currently Learning
-- Next.js (Server‑Side Rendering + API Routes)  
+- System Design 💡  
 - Advanced TypeScript  
-- UI/UX friendly frontend design with TailwindCSS  
 
----
+### 👯 Looking to collaborate on
+- Full Stack Projects (MERN + Next.js)
 
-### 📫 Contact
-- **Email:** [the.abdulla@hotmail.com](mailto:the.abdulla@hotmail.com)  
-- **LinkedIn:** [linkedin.com/in/theabdulla](https://linkedin.com/in/theabdulla)  
+### 👨‍💻 All of my projects
+- Will be showcased soon in **My Portfolio Website**
 
 ---
 
@@ -61,6 +63,17 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabdulla0&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h3 align="center">💻 Fun Contribution Graph</h3>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theabdulla0/theabdulla0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theabdulla0/theabdulla0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/theabdulla0/theabdulla0/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 ---
