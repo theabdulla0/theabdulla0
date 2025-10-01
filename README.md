@@ -9,17 +9,18 @@
 ---
 
 ### 🔭 Currently Working On
-- My Portfolio (Next.js + TailwindCSS)
+- My Personal **Portfolio Website** with Next.js + TailwindCSS  
 
 ### 🌱 Currently Learning
-- System Design 💡  
-- Advanced TypeScript  
+- **System Design** for scalable apps  
+- Advanced **TypeScript** patterns and best practices  
 
-### 👯 Looking to collaborate on
-- Full Stack Projects (MERN + Next.js)
+### 👯 Looking to Collaborate On
+- **Full Stack Projects** (MERN/Next.js)  
+- Exciting **open source work**  
 
-### 👨‍💻 All of my projects
-- Will be showcased soon in **My Portfolio Website**
+### 👨‍💻 All My Projects
+- Will soon be showcased at 👉 [My Portfolio Website](#)  
 
 ---
 
@@ -31,7 +32,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages & Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -44,13 +45,22 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+</p>  
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">📂 Featured Projects</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theabdulla0&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="theabdulla0" />
+  <a href="https://your-live-demo-link.com"><b>🌐 Portfolio Website</b></a><br/>
+  <em>My personal developer portfolio built with Next.js & TailwindCSS.</em><br/>
+  <a href="https://github.com/theabdulla0/portfolio"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://portfolio-demo.com"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=vercel" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/theabdulla0/fullstack-app"><b>⚡ Fullstack MERN Project</b></a><br/>
+  <em>A collaborative fullstack project with authentication & CRUD.</em><br/>
+  <a href="https://github.com/theabdulla0/fullstack-app"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -67,7 +77,7 @@
 
 ---
 
-<h3 align="center">💻 Fun Contribution Graph</h3>
+<h3 align="center">🎮 Fun Contribution Graph</h3>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theabdulla0/theabdulla0/output/pacman-contribution-graph-dark.svg">
@@ -79,4 +89,4 @@
 ---
 
 ### 🎯 Fun Fact
-I debug faster when I have coffee ☕ and lo‑fi beats 🎶 in the background!
+🌟 I debug faster with a hot ☕ coffee + lo‑fi beats 🎶 in the background!
