@@ -32,9 +32,9 @@
 
 <br>
 
-- 💻 **Frontend Wizard** crafting with `React` `Next.js` `TailwindCSS`
+- 💻 **Frontend Wizard** crafting with `React` `TailwindCSS`
 - 🔧 **Backend Explorer** building with `Node.js` `Express` `MongoDB`  
-- 🎯 **Current Mission**: Building my dream portfolio with Next.js
+- 🎯 **Current Mission**: Building my dream portfolio with ReactJS
 - 🌱 **Leveling Up**: System Design & Advanced TypeScript
 - 🤝 **Open for**: Fullstack collaborations & Open Source adventures
 - ⚡ **Fun fact**: I debug faster by explaining code to my rubber duck 🦆
@@ -53,8 +53,7 @@
       <td align="center" width="50%">
         <h3>🔭 Working On</h3>
         <p>✨ Personal Portfolio Website<br>
-        📱 Next.js + TailwindCSS<br>
-        🎨 Modern UI/UX Design</p>
+        📱 ReactJS + TailwindCSS<br>
       </td>
       <td align="center" width="50%">
         <h3>🌱 Learning</h3>
@@ -76,7 +75,6 @@
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
