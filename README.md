@@ -102,8 +102,8 @@
 <h2 align="center">🎨 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/theabdulla0/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theabdulla0&repo=porfolio&theme=radical&hide_border=true" />
+  <a href="https://github.com/theabdulla0/PetCare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theabdulla0&repo=PetCare&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/theabdulla0/Travel-Management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=theabdulla0&repo=Travel-Management&theme=radical&hide_border=true" />
