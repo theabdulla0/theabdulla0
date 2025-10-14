@@ -103,7 +103,7 @@
 
 <div align="center">
   <a href="https://github.com/theabdulla0/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theabdulla0&repo=portfolio&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theabdulla0&repo=porfolio&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/theabdulla0/Travel-Management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=theabdulla0&repo=Travel-Management&theme=radical&hide_border=true" />
